@@ -1,0 +1,26 @@
+[28-Oct-2015 10:01:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/karjoyono/public_html/index.php on line 3
+[28-Oct-2015 10:01:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/karjoyono/public_html/index.php on line 3
+[02-Nov-2015 12:10:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '').'' (T_CONSTANT_ENCAPSED_STRING) in /home/karjoyono/public_html/application/modules/profil/views/v_profil.php on line 24
+[02-Nov-2015 12:11:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '"' in /home/karjoyono/public_html/application/modules/profil/views/v_profil.php on line 24
+[10-Nov-2015 08:21:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:21:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:21:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:21:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:23:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:23:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:23:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:23:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:23:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:23:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:23:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:23:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:24:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:25:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:26:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 08:26:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/karjoyono/public_html/application/modules/admin_project/controllers/admin_project.php on line 87
+[10-Nov-2015 09:05:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/karjoyono/public_html/application/modules/produk/views/v_detail_produk.php on line 27
+[10-Nov-2015 09:05:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/karjoyono/public_html/application/modules/produk/views/v_detail_produk.php on line 27
+[10-Nov-2015 09:05:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/karjoyono/public_html/application/modules/produk/views/v_detail_produk.php on line 27
+[10-Nov-2015 09:05:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/karjoyono/public_html/application/modules/produk/views/v_detail_produk.php on line 27
+[10-Nov-2015 10:03:18 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/karjoyono/public_html/application/modules/admin_berita/controllers/admin_berita.php on line 126
+[10-Nov-2015 11:43:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/karjoyono/public_html/application/modules/coba/controllers/coba.php on line 54
